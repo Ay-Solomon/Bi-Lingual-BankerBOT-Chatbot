@@ -1,4 +1,3 @@
-
 # Bi-Lingual BankerBOT Chatbot
 
 ## 🚀 Introduction
@@ -20,8 +19,11 @@ Building a chatbot that truly connects with people isn’t just about code—it�
 Amazon Lex is the engine that powers BankerBOT. It’s a cloud-based AI service that makes it incredibly easy to build chatbots. With its built-in speech recognition and natural language processing, I was able to focus on crafting the best user experience instead of wrestling with complex AI models.
 
 ## ⚙️ Project Setup
-![Amazon Lex Setup](![Setup](https://github.com/user-attachments/assets/eb25257e-68a3-4307-a44b-864fbfbc260d)
-)
+**Amazon Lex Setup**
+
+
+![Setup](https://github.com/user-attachments/assets/081dfae1-4bf8-49eb-b8f3-19509c9932a9)
+
 ### Step 1: Creating the Chatbot
 Getting BankerBOT up and running took just 3 minutes. The interface is intuitive, making it simple to create a functional chatbot without breaking a sweat.
 
@@ -67,7 +69,10 @@ I don’t have to wait in long queues or struggle with language barriers when I 
 - **Solution**: BankerBOT fetches transaction details instantly, removing the guesswork.
 
 ## 🎯 Intents Configuration
-![Intent Configuration](path/to/intents-image.png)
+**Intent Configuration**
+
+![Intent](https://github.com/user-attachments/assets/6327bb68-7b0d-4ab4-8387-c358f20cc4e0)
+
 ### WelcomeIntent
 BankerBOT starts conversations with a friendly greeting, supporting multiple languages such as:
 - "Hello"
@@ -79,11 +84,15 @@ BankerBOT starts conversations with a friendly greeting, supporting multiple lan
 Whenever BankerBOT encounters an input it doesn’t recognize, it triggers a helpful fallback response instead of leaving users stranded.
 
 ## 🔄 Fallback Mechanism
-![Fallback Intent Handling](path/to/fallback-image.png)
+**Fallback Intent Handling**
+
+![Fallbackintent](https://github.com/user-attachments/assets/8a82e600-7585-408d-840f-a3a2309bfdf7)
+
+
 When a user enters something unexpected, BankerBOT gracefully handles the situation by offering guidance rather than just saying, "I don’t understand."
 
 ## 🧪 Testing and Iteration
-![Testing and Iteration Process](path/to/testing-image.png)
+**Testing and Iteration Process**
 Building a chatbot isn’t just about getting it live—it’s about making it better over time. Here’s how I refined BankerBOT:
 - **📊 A/B Testing**: Ran multiple tests on different responses to see which ones felt the most natural and engaging.
 - **🛠️ Intent Matching Validation**: Tested various phrasing styles to fine-tune accuracy.
