@@ -19,7 +19,8 @@ Building a chatbot that truly connects with people isn’t just about code—it�
 Amazon Lex is the engine that powers BankerBOT. It’s a cloud-based AI service that makes it incredibly easy to build chatbots. With its built-in speech recognition and natural language processing, I was able to focus on crafting the best user experience instead of wrestling with complex AI models.
 
 ## ⚙️ Project Setup
-![Amazon Lex Setup](path/to/setup-image.png)
+![Amazon Lex Setup](![image](https://github.com/user-attachments/assets/0f764f90-aef5-447b-88f9-bdd6303c6ff5)
+)
 ### Step 1: Creating the Chatbot
 Getting BankerBOT up and running took just 3 minutes. The interface is intuitive, making it simple to create a functional chatbot without breaking a sweat.
 
