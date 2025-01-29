@@ -46,7 +46,7 @@ I stuck with the default confidence threshold of 0.40, which helps the bot balan
 - **Feature Prioritization Framework**: Used the RICE method (Reach, Impact, Confidence, Effort) to refine the chatbot’s most valuable features.
 - **Logging & Analytics**: Amazon CloudWatch provides real-time tracking of user interactions and chatbot performance.
 
-## 📖 Epic User Story
+## 📖 User Story
 ### Title: Making Banking Support Instant and Accessible
 #### As a
 Banking customer who needs quick, hassle-free assistance,
