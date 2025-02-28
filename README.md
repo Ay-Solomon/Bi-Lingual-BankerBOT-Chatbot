@@ -1,5 +1,6 @@
 # Bi-Lingual BankerBOT Chatbot
 
+
 ## 🚀 Introduction
 Building a chatbot that truly connects with people isn’t just about code—it’s about understanding their needs. That’s exactly what I set out to do with Bi-Lingual BankerBOT. This chatbot helps users navigate their banking needs effortlessly, supporting both English and African languages for a smoother and more inclusive experience.
 
